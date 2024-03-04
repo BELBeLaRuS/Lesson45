@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{F4A8C996-7858-422C-A6E6-E7B210EF4389}</ProjectGuid>
-    <RootNamespace>Lesson45</RootNamespace>
+    <ProjectGuid>{CDC166BB-A0EB-4A74-9D69-724F2AFA893D}</ProjectGuid>
+    <RootNamespace>Project2</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -119,9 +119,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Test01.cpp" />
-    <ClCompile Include="Test02.cpp" />
-    <ClCompile Include="Test30.cpp" />
+    <ClCompile Include="Task02.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
